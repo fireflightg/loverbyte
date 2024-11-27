@@ -8,7 +8,7 @@ const fredoka = Fredoka({
 });
 
 export const metadata = {
-  title: "Lovebyte - Kawaii Date Night Generator",
+  title: "Lovebyte - Date Night Generator",
   description: "Generate cute date night ideas!",
 };
 
