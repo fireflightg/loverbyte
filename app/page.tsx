@@ -262,7 +262,7 @@ export default function DateNightGenerator() {
           <p className="text-sm text-gray-600">
             Created by{" "}
             <a
-              href="https://www.saahibmohammed.com/"
+              href="https://github.com/fireflightg"
               className="text-purple-500 hover:underline"
             >
               Saahib Mohammed
@@ -270,7 +270,7 @@ export default function DateNightGenerator() {
           </p>
           <p className="text-sm text-gray-600">
             <a
-              href="https://github.com/fireflightg"
+              href="https://github.com/fireflightg/loverbyte/tree/main"
               className="text-purple-500 hover:underline"
             >
               GitHub
