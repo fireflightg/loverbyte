@@ -270,10 +270,10 @@ export default function DateNightGenerator() {
           </p>
           <p className="text-sm text-gray-600">
             <a
-              href="https://github.com/fireflightg/loverbyte/tree/main"
+              href="#"
               className="text-purple-500 hover:underline"
             >
-              GitHub
+              CA: TBA
             </a>{" "}
             |{" "}
             <a
